@@ -1,2 +1,1 @@
-a = 2
-b = 3
+a,b = int(input()),int(input())
